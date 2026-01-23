@@ -1,18 +1,12 @@
-h1{
-  color:crimson;
-  top-margin:22pt;
-}
-.tuade{
-  color: LightSeaGreen;
+h1{color:crimson;
+  top-margin:22pt;}
+.tuade{color: LightSeaGreen;
   font-family:" Times New Roman";
   top-margin: 20pt;
   font-size: 20pt;
-  font-weight: bold;
-}
-.noidung {
-  color: Lightcoral;
+  font-weight: bold;}
+.noidung {color: Lightcoral;
   font-family:" Times New Roman";
   top-margin: 6pt;
   font;size: 15pt;
-  font-style: normal;
-}
+  font-style: normal;}
