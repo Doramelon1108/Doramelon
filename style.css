@@ -5,8 +5,9 @@ height: 100vh;
 }
 .header{
 flex:15%;
-background-color: lightgray;
+background-color: coral;
 background: url ("images/banner.jpg") center;
+  aspect-ratio:6/1
 }
 .menu{
 flex: 5%;
