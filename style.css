@@ -11,13 +11,13 @@ background: url ("images/banner.jpg") center/100%;
 }
 .menu{
 flex: 5%;
-background-color: darkgray;  
+background-color: yellow;  
 display:flex;
 align-items: center;
 }
 .menu a{
   padding:15px 20px;
-  color:yellow;
+  color:lightseagreen;
 }
 .menu a:hover{
  background-color: lightgray;
