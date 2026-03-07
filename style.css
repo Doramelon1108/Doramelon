@@ -20,7 +20,7 @@ align-items: center;
   color:lightseagreen;
 }
 .menu a:hover{
- background-color: lightgray;
+ background-color: yellow;
  color: blue;
 }
 .content{
@@ -35,7 +35,7 @@ height:100%;
 }
 .footer{
 flex: 10%;
-background-color: lightgray;
+background-color: yellow;
 }
 h1{color:crimson;
   text-align: center;
